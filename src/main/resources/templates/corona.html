@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Coronovirus Cases</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1 class="title">Coronovirus in Poland
+    <span th:text="${date}"></span>
+</h1>
+<div class="mybody">
+
+    <h1 class="active">
+        <span class="red" th:text="${activeCases}"></span> of active cases
+    </h1>
+
+    <h3 class="active">
+        <span class="red" th:text="${mildCases}"></span> in mild condition,
+        <span class="red" th:text="${criticalCases}"></span> serious or critical
+    </h3>
+
+    <h2 class="probability">Probability of getting infected is
+        <span class="red" th:text="${probability}+'%'"></span>
+    </h2>
+
+</div>
+
+<br>
+
+<img src="corona.jpg"
+     alt="Coronovirus"
+     class="center">
+<br>
+<hr>
+
+</body>
+</html>

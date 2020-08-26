@@ -1,0 +1,89 @@
+File was created (25-August-2020, Tuesday, 11:37:56):
+New Log (25-August-2020, Tuesday, 11:37:56):
+(25-August-2020, Tuesday, 11:37:56): File created: Database.txt
+(25-August-2020, Tuesday, 11:37:56): Write to Database.
+(25-August-2020, Tuesday, 11:37:59): Successfully wrote to DataBase.
+(25-August-2020, Tuesday, 11:38:01): Read from DataBase.
+
+New Log (25-August-2020, Tuesday, 11:40:16):
+(25-August-2020, Tuesday, 11:40:16): DataBase is ok and ready.
+(25-August-2020, Tuesday, 11:40:17): Read from DataBase.
+
+New Log (25-August-2020, Tuesday, 11:40:27):
+(25-August-2020, Tuesday, 11:40:27): DataBase is ok and ready.
+
+New Log (25-August-2020, Tuesday, 11:40:32):
+(25-August-2020, Tuesday, 11:40:32): DataBase is ok and ready.
+(25-August-2020, Tuesday, 11:40:36): Read from DataBase.
+
+New Log (25-August-2020, Tuesday, 11:40:57):
+(25-August-2020, Tuesday, 11:40:57): DataBase is ok and ready.
+(25-August-2020, Tuesday, 11:40:58): Read from DataBase.
+
+New Log (25-August-2020, Tuesday, 11:43:05):
+(25-August-2020, Tuesday, 11:43:05): DataBase is ok and ready.
+(25-August-2020, Tuesday, 11:43:10): Read from DataBase.
+
+New Log (25-August-2020, Tuesday, 11:45:09):
+(25-August-2020, Tuesday, 11:45:09): DataBase is ok and ready.
+(25-August-2020, Tuesday, 11:45:12): Read from DataBase.
+
+New Log (25-August-2020, Tuesday, 11:47:26):
+(25-August-2020, Tuesday, 11:47:26): DataBase is ok and ready.
+(25-August-2020, Tuesday, 11:47:33): Read from DataBase.
+
+New Log (25-August-2020, Tuesday, 11:48:56):
+(25-August-2020, Tuesday, 11:48:56): DataBase is ok and ready.
+(25-August-2020, Tuesday, 11:48:58): Read from DataBase.
+(25-August-2020, Tuesday, 11:49:05): Read from DataBase.
+
+New Log (25-August-2020, Tuesday, 11:49:13):
+(25-August-2020, Tuesday, 11:49:13): DataBase is ok and ready.
+(25-August-2020, Tuesday, 11:49:13): Read from DataBase.
+(25-August-2020, Tuesday, 11:52:57): Read from DataBase.
+(25-August-2020, Tuesday, 11:52:59): Read from DataBase.
+
+New Log (25-August-2020, Tuesday, 11:53:10):
+(25-August-2020, Tuesday, 11:53:10): DataBase is ok and ready.
+(25-August-2020, Tuesday, 11:53:11): Read from DataBase.
+
+New Log (26-August-2020, Wednesday, 12:16:24):
+(26-August-2020, Wednesday, 12:16:24): Write to Database.
+(26-August-2020, Wednesday, 12:16:27): Successfully wrote to DataBase.
+
+New Log (26-August-2020, Wednesday, 12:16:30):
+(26-August-2020, Wednesday, 12:16:30): DataBase is ok and ready.
+
+New Log (26-August-2020, Wednesday, 12:16:46):
+(26-August-2020, Wednesday, 12:16:46): DataBase is ok and ready.
+(26-August-2020, Wednesday, 12:17:03): Read from DataBase.
+
+New Log (27-August-2020, Thursday, 12:29:19):
+(27-August-2020, Thursday, 12:29:19): Write to Database.
+(27-August-2020, Thursday, 12:29:21): Successfully wrote to DataBase.
+(27-August-2020, Thursday, 12:29:36): Read from DataBase.
+(27-August-2020, Thursday, 12:31:12): Read from DataBase.
+(27-August-2020, Thursday, 12:32:21): Read from DataBase.
+
+New Log (27-August-2020, Thursday, 12:33:16):
+(27-August-2020, Thursday, 12:33:16): DataBase is ok and ready.
+(27-August-2020, Thursday, 12:33:22): Read from DataBase.
+
+New Log (27-August-2020, Thursday, 12:33:37):
+(27-August-2020, Thursday, 12:33:37): DataBase is ok and ready.
+(27-August-2020, Thursday, 12:33:39): Read from DataBase.
+
+New Log (27-August-2020, Thursday, 12:35:10):
+(27-August-2020, Thursday, 12:35:10): DataBase is ok and ready.
+(27-August-2020, Thursday, 12:35:13): Read from DataBase.
+
+New Log (27-August-2020, Thursday, 12:46:05):
+(27-August-2020, Thursday, 12:46:05): DataBase is ok and ready.
+(27-August-2020, Thursday, 12:46:10): Read from DataBase.
+
+New Log (27-August-2020, Thursday, 12:48:41):
+(27-August-2020, Thursday, 12:48:41): DataBase is ok and ready.
+
+New Log (27-August-2020, Thursday, 12:50:43):
+(27-August-2020, Thursday, 12:50:43): DataBase is ok and ready.
+(27-August-2020, Thursday, 12:50:47): Read from DataBase.
